@@ -1,0 +1,12 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+D	1c7fb504b2a1c966e713e93097fdee86	086fb2e41c003e66496ee0ec45470585	2018-04-08 13:09:59.000000 India S	2018-04-08 13:09:59.000000 India SH	2018-04-08 16:29:00.000000 India S								n	0/1	0/100	1970-01-01 05:30:00.000000 India SDÖÖ	Äÿ(
+===== END
+===== START
+D	e4e95fd95b0f53793fb655ba38570791	3a5d69ba0367defd9d80bc9908d56b9a	2018-04-08 13:09:59.000000 India S	2018-04-08 13:09:59.000000 India SH	2018-04-08 16:29:00.000000 India S								n	0/1	0/100	1970-01-01 05:30:00.000000 India SÌ Äÿ(
+===== END
